@@ -1,0 +1,16 @@
+$text-color : #b1bdb4;
+
+$black-primary: #16181b;
+$border-color: #4c4c4c;
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background: $black-primary;
+    background-attachment: fixed;
+    color: $text-color;
+}
